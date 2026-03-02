@@ -24,7 +24,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "bee4k1otx5urkf"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -136,7 +136,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "bee4k1otx5urkf"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",
@@ -158,7 +158,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "bee4k1otx5urkf"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -289,7 +289,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "bee4k1otx5urkf"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",
@@ -311,7 +311,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "bee4k1otx5urkf"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -424,7 +424,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "bee4k1otx5urkf"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",
@@ -446,7 +446,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "bee4k1otx5urkf"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -548,7 +548,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "bee4k1otx5urkf"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",
@@ -570,7 +570,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "bee4k1otx5urkf"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -683,7 +683,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "bee4k1otx5urkf"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",

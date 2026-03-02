@@ -55,7 +55,7 @@
     {
       "datasource": {
         "type": "yesoreyeram-infinity-datasource",
-        "uid": "${DS_INFINITY-DATASOURCE-SERVER-INTERNAL}"
+        "uid": "P488291691B9D3CDA"
       },
       "fieldConfig": {
         "defaults": {
@@ -159,7 +159,7 @@
           ],
           "datasource": {
             "type": "yesoreyeram-infinity-datasource",
-            "uid": "${DS_INFINITY-DATASOURCE-SERVER-INTERNAL}"
+            "uid": "P488291691B9D3CDA"
           },
           "filters": [],
           "format": "table",
